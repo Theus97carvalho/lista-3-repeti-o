@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\7 tabuada 1 a 20 - repetição\7 tabuada 1 a 20 - repetição\bin\Debug\7 tabuada 1 a 20 - repetição.exe.config
+C:\Users\Leda\source\repos\7 tabuada 1 a 20 - repetição\7 tabuada 1 a 20 - repetição\bin\Debug\7 tabuada 1 a 20 - repetição.exe
+C:\Users\Leda\source\repos\7 tabuada 1 a 20 - repetição\7 tabuada 1 a 20 - repetição\bin\Debug\7 tabuada 1 a 20 - repetição.pdb
+C:\Users\Leda\source\repos\7 tabuada 1 a 20 - repetição\7 tabuada 1 a 20 - repetição\obj\Debug\7 tabuada 1 a 20 - repetição.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\7 tabuada 1 a 20 - repetição\7 tabuada 1 a 20 - repetição\obj\Debug\7 tabuada 1 a 20 - repetição.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\7 tabuada 1 a 20 - repetição\7 tabuada 1 a 20 - repetição\obj\Debug\7 tabuada 1 a 20 - repetição.exe
+C:\Users\Leda\source\repos\7 tabuada 1 a 20 - repetição\7 tabuada 1 a 20 - repetição\obj\Debug\7 tabuada 1 a 20 - repetição.pdb

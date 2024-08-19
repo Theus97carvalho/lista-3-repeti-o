@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\4 tabuada do cinco - repetição\4 tabuada do cinco - repetição\obj\Debug\4 tabuada do cinco - repetição.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\4 tabuada do cinco - repetição\4 tabuada do cinco - repetição\obj\Debug\4 tabuada do cinco - repetição.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\4 tabuada do cinco - repetição\4 tabuada do cinco - repetição\bin\Debug\4 tabuada do cinco - repetição.exe.config
+C:\Users\Leda\source\repos\4 tabuada do cinco - repetição\4 tabuada do cinco - repetição\bin\Debug\4 tabuada do cinco - repetição.exe
+C:\Users\Leda\source\repos\4 tabuada do cinco - repetição\4 tabuada do cinco - repetição\bin\Debug\4 tabuada do cinco - repetição.pdb
+C:\Users\Leda\source\repos\4 tabuada do cinco - repetição\4 tabuada do cinco - repetição\obj\Debug\4 tabuada do cinco - repetição.exe
+C:\Users\Leda\source\repos\4 tabuada do cinco - repetição\4 tabuada do cinco - repetição\obj\Debug\4 tabuada do cinco - repetição.pdb

@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\8 soma de numeros positivos 1 a 100 - reposição\8 soma de numeros positivos 1 a 100 - reposição\bin\Debug\8 soma de numeros positivos 1 a 100 - reposição.exe.config
+C:\Users\Leda\source\repos\8 soma de numeros positivos 1 a 100 - reposição\8 soma de numeros positivos 1 a 100 - reposição\bin\Debug\8 soma de numeros positivos 1 a 100 - reposição.exe
+C:\Users\Leda\source\repos\8 soma de numeros positivos 1 a 100 - reposição\8 soma de numeros positivos 1 a 100 - reposição\bin\Debug\8 soma de numeros positivos 1 a 100 - reposição.pdb
+C:\Users\Leda\source\repos\8 soma de numeros positivos 1 a 100 - reposição\8 soma de numeros positivos 1 a 100 - reposição\obj\Debug\8 soma de numeros positivos 1 a 100 - reposição.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\8 soma de numeros positivos 1 a 100 - reposição\8 soma de numeros positivos 1 a 100 - reposição\obj\Debug\8 soma de numeros positivos 1 a 100 - reposição.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\8 soma de numeros positivos 1 a 100 - reposição\8 soma de numeros positivos 1 a 100 - reposição\obj\Debug\8 soma de numeros positivos 1 a 100 - reposição.exe
+C:\Users\Leda\source\repos\8 soma de numeros positivos 1 a 100 - reposição\8 soma de numeros positivos 1 a 100 - reposição\obj\Debug\8 soma de numeros positivos 1 a 100 - reposição.pdb

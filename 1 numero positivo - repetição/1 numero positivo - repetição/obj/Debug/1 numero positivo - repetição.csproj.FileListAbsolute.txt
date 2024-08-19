@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\1 numero positivo - repetição\1 numero positivo - repetição\bin\Debug\1 numero positivo - repetição.exe.config
+C:\Users\Leda\source\repos\1 numero positivo - repetição\1 numero positivo - repetição\bin\Debug\1 numero positivo - repetição.exe
+C:\Users\Leda\source\repos\1 numero positivo - repetição\1 numero positivo - repetição\bin\Debug\1 numero positivo - repetição.pdb
+C:\Users\Leda\source\repos\1 numero positivo - repetição\1 numero positivo - repetição\obj\Debug\1 numero positivo - repetição.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\1 numero positivo - repetição\1 numero positivo - repetição\obj\Debug\1 numero positivo - repetição.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\1 numero positivo - repetição\1 numero positivo - repetição\obj\Debug\1 numero positivo - repetição.exe
+C:\Users\Leda\source\repos\1 numero positivo - repetição\1 numero positivo - repetição\obj\Debug\1 numero positivo - repetição.pdb

@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\3 M ou F - repetição\3 M ou F - repetição\bin\Debug\3 M ou F - repetição.exe.config
+C:\Users\Leda\source\repos\3 M ou F - repetição\3 M ou F - repetição\bin\Debug\3 M ou F - repetição.exe
+C:\Users\Leda\source\repos\3 M ou F - repetição\3 M ou F - repetição\bin\Debug\3 M ou F - repetição.pdb
+C:\Users\Leda\source\repos\3 M ou F - repetição\3 M ou F - repetição\obj\Debug\3 M ou F - repetição.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\3 M ou F - repetição\3 M ou F - repetição\obj\Debug\3 M ou F - repetição.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\3 M ou F - repetição\3 M ou F - repetição\obj\Debug\3 M ou F - repetição.exe
+C:\Users\Leda\source\repos\3 M ou F - repetição\3 M ou F - repetição\obj\Debug\3 M ou F - repetição.pdb

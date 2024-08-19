@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8 soma de numeros positivos 1 a 100 - reposição", "8 soma de numeros positivos 1 a 100 - reposição\8 soma de numeros positivos 1 a 100 - reposição.csproj", "{3D14CB23-DBEE-4FC3-9FC4-6A14AF1A0DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D14CB23-DBEE-4FC3-9FC4-6A14AF1A0DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D14CB23-DBEE-4FC3-9FC4-6A14AF1A0DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D14CB23-DBEE-4FC3-9FC4-6A14AF1A0DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D14CB23-DBEE-4FC3-9FC4-6A14AF1A0DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D1B238-096D-4C41-A696-0F6EF8FFBD39}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\2 numero maior - repetição\2 numero maior - repetição\bin\Debug\2 numero maior - repetição.exe.config
+C:\Users\Leda\source\repos\2 numero maior - repetição\2 numero maior - repetição\bin\Debug\2 numero maior - repetição.exe
+C:\Users\Leda\source\repos\2 numero maior - repetição\2 numero maior - repetição\bin\Debug\2 numero maior - repetição.pdb
+C:\Users\Leda\source\repos\2 numero maior - repetição\2 numero maior - repetição\obj\Debug\2 numero maior - repetição.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\2 numero maior - repetição\2 numero maior - repetição\obj\Debug\2 numero maior - repetição.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\2 numero maior - repetição\2 numero maior - repetição\obj\Debug\2 numero maior - repetição.exe
+C:\Users\Leda\source\repos\2 numero maior - repetição\2 numero maior - repetição\obj\Debug\2 numero maior - repetição.pdb
