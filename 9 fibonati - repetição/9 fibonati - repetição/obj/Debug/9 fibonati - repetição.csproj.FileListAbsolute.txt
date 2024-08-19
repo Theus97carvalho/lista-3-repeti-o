@@ -1,0 +1,7 @@
+C:\Users\Leda\source\repos\9 fibonati - repetição\9 fibonati - repetição\bin\Debug\9 fibonati - repetição.exe.config
+C:\Users\Leda\source\repos\9 fibonati - repetição\9 fibonati - repetição\bin\Debug\9 fibonati - repetição.exe
+C:\Users\Leda\source\repos\9 fibonati - repetição\9 fibonati - repetição\bin\Debug\9 fibonati - repetição.pdb
+C:\Users\Leda\source\repos\9 fibonati - repetição\9 fibonati - repetição\obj\Debug\9 fibonati - repetição.csproj.AssemblyReference.cache
+C:\Users\Leda\source\repos\9 fibonati - repetição\9 fibonati - repetição\obj\Debug\9 fibonati - repetição.csproj.CoreCompileInputs.cache
+C:\Users\Leda\source\repos\9 fibonati - repetição\9 fibonati - repetição\obj\Debug\9 fibonati - repetição.exe
+C:\Users\Leda\source\repos\9 fibonati - repetição\9 fibonati - repetição\obj\Debug\9 fibonati - repetição.pdb
